@@ -1,0 +1,10 @@
+Meeting Minutes  2014-07-30
+---------------  ----------
+
+廷恩[系統架構] -（安裝ubuntu、node.js、mongoDB）＋git；使用者 login 模組
+家宏[在地化] - 除錯（顯示不全、測不同瀏覽器）、確認授權
+小樂[電子白板] - 拖曳＋直接開啟檔案（jpg、pdf）
+峻元[Blog] - Design Document
+尚頤[教材公告大綱] - 可開單檔；列清單
+Edgar[Chat] - done
+Edgar[Video Streaming] - almost there
