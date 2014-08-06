@@ -13,7 +13,7 @@ Meeting Minutes 2014-07-30
   * canvas for trace
   * save trace and original pdf
   * integrate: wboard, tchat, vchat
-峻元[Blog] - 
+竣元[Blog] - 
   * design document: okay
   * study json & mongoDB
   * implement view by html & css
