@@ -1,0 +1,24 @@
+廷恩[系統架構] -（安裝ubuntu、node.js、mongoDB）＋git；使用者 login 模組
+  * 小樂代：使用616機器 [OK]
+    + 幫加sudoers
+俊衞[成績] - 評分方式 (P/F, %, rank)、評分類型 (個人、分組；自評<分數、說明>、師評<分數、說明>、互評<分數、說明*>)、配分方式 (100% or more)、調分
+  * 提供設計文件、流程
+  * database collection design
+竣元[Blog] - 
+  * study json & mongoDB: pok
+    + study mongoDB: run sample code
+  * implement view by html & css
+家宏[在地化] - 
+  * Q: 授權問題？OK
+  * 擴充詞庫：課程相關名詞
+家宏[帳密] - 
+  * 密碼編碼請接後端使用者資料庫
+小樂[電子白板] - 拖曳＋直接開啟檔案（jpg、pdf）
+  * save trace and original pdf: low resolution
+  * integrate: wboard, tchat ([suggestion] student: m-m; teacher: 1-m or 1-1), vchat
+尚頤[教材公告大綱] - 可開單檔；列清單
+  * integrate 小樂's code: upload material
+  * announce: content, time, attribute, (type --> test? nortification? homework?) --> google calendar (GAE)?
+  * syllabus
+    + revise user.json
+  * database collection design
