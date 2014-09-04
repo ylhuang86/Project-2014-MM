@@ -1,0 +1,31 @@
+廷恩[系統架構] -
+* 整合
+
+俊衞[成績] - 評分方式 (P/F, %, rank)、評分類型 (個人、分組；自評<分數、說明>、師評<分數、說明>、互評<分數、說明*>)、配分方式 (100% or more)、調分
+* 提供設計文件、流程
+* database collection design(下次demo collection design)
+* nok
+
+竣元[Blog] - 
++ 研究 MVC 架構 (poet, docpad)
+* 改 poet (下次demo一個簡版)
+
+家宏[在地化] -
++ cookie
++ 建詞彙
+* 整廷恩
+
+家宏[帳密] -
++ 整廷恩
+
+小樂[電子白板] - 
++ 換顏色、復原
++ 讀取舊memo
+* 整廷恩
+
+尚頤[教材公告大綱] - 請假
+* 整小樂's code: upload material
+* announce: content, time, attribute, (type --> test? nortification? homework?) --> google calendar (GAE)?
+* syllabus
++ revise user.json: for material (ok)
+* database collection design (ok, revise, course type)
